@@ -9,7 +9,7 @@
 
 >The dataset contains variables such as duration of the trip, start station and end station, start time and end time timestamp, gender, birth years and user type.
 
-
+> Link to the dataset : https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 ## Summary of Findings
 
 > Age : Age is skewed with high number between 25 and 40 years. There are some outliers in this variable,120years.
